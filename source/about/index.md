@@ -36,28 +36,28 @@ title: Welcome!
   url: https://space.bilibili.com/14672791
   desc: 我的BILIBILI主页(没啥东西)
   color: "#fb7299"
-  image: assets/6a29cba66e07343f987bec3f59771ad8b3871812.jpg
+  image: ~agno3/assets/6a29cba66e07343f987bec3f59771ad8b3871812.jpg
 
 - site: SyouSanGin
   owner: SyouSanGin
   url: https://t.me/syousangin
   desc: Telegram
   color: "#30a3e6"
-  image: assets/telegram_avater.png
+  image: ~agno3/assets/telegram_avater.png
 
 - site: SyouSanGin
   owner: SyouSanGin
   url: https://github.com/syousangin
   desc: Github
   color: "#191717"
-  image: assets/github_avater.png
+  image: ~agno3/assets/github_avater.png
 
 - site: SyouSanGin
   owner: SyouSanGin
   url: https://www.luogu.com.cn/blog/syousangin/
   desc: 洛谷
   color: "#5a99d4"
-  image: assets/luogu_avater.jpg
+  image: ~agno3/assets/luogu_avater.jpg
 
 {% endlinks %}
 **Other ways to contact me**
