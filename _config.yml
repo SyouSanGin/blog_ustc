@@ -13,7 +13,7 @@ timezone: ''
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://syousangin.github.io
-permalink: :year/:month/:day/:title/
+permalink: :title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -67,6 +67,8 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  Daily life : daily-life
+  Algorithm learning: algorithm-learning
 tag_map:
 
 # Metadata elements
@@ -138,7 +140,7 @@ markdown:
         name: ./markdown-it-spoiler
         enable: true
         options:
-          title: "You know too much!"
+          title: "看什么看！ "
 minify:
   html:
     enable: true
@@ -169,7 +171,7 @@ autoprefixer:
 
 algolia:
   appId: 'GJVW205M0H'
-  apiKey: 'cda2ba67e1ca57d722fa13cf94cbd1c2'
+  apiKey: '43aedbc1490a50f2757cd1fd5afcba60'
   adminApiKey: '56e3beb8d34f5b46a2f4151195dfc17f'
   chunkSize: 5000
   indexName: 'BLOG'
@@ -199,3 +201,4 @@ feed:
         enable: true
         template: "themes/shoka/layout/_alternate/json.ejs"
         output: "feed.json"
+

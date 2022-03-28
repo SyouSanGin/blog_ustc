@@ -4,7 +4,7 @@ date: 2022-03-27 23:25:56
 tags:
     - Gossip
 categories:
-    - Daily life    
+    - [Daily life]
 ---
 
 # This is a new beginning of my life (I'm kidding)
